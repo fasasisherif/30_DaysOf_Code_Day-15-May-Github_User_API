@@ -1,0 +1,19 @@
+body{
+		font-family:"Baloo Da 2";
+		}
+img{
+		border-radius:50%;
+		width:30%;
+		display:block;
+		}
+.one{
+		font-size:30px;
+		font-weight:bold;
+		padding:15px;
+		}
+#attach{
+		padding:15px;
+		display:flex;
+		flex-wrap:wrap;
+		}
+
